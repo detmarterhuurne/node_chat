@@ -1,0 +1,8 @@
+{
+  "name": "node_chat",
+  "subdomain": "detmarterhuurne",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.7.1"
+}
